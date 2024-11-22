@@ -1,9 +1,14 @@
-# React TypeScript Starter Pack
+# React Dynamic List of Todos App with API 
 
-To use this template click `Use this template`
+Greetings! This project is a dynamic list of todos. You can add, change and remove items from this list. There are 2 types of todo (active, completed) you can also filter by this statuses. Project works with API so every change syncronized with server.
 
-### Available Scripts
+# Project Link: 
+- [Todo Project](https://olehphw.github.io/react_todo-app-with-api/)
 
-`Deploy` - available to deploy your application to gh-pages
-
-`SCSS Preprocessor` - available to write your styles with modern style language
+# Technologies used:
+- HTML
+- CSS
+- JS
+- React
+- TypeScript
+- API
